@@ -1,7 +1,7 @@
 
 ## Screenshots
 
-![App Screenshot]<img width="564" alt="Screenshot 2023-07-31 at 3 18 04 PM" src="https://github.com/ahmed-eldin/javascript-todo-list/assets/111728755/aac616c8-43bf-408c-9f64-363a00909cc6">
+<img width="564" alt="Screenshot 2023-07-31 at 3 18 04 PM" src="https://github.com/ahmed-eldin/javascript-todo-list/assets/111728755/aac616c8-43bf-408c-9f64-363a00909cc6">
 
 
 
